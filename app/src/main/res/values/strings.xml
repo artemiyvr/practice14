@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="email_hint">Введите ваш email</string>
+    <string name="name_hint">Введите ваше имя</string>
+    <string name="age_hint">Введите ваш возраст</string>
+    <string name="edit_button">Редактировать</string>
+    <string name="enter_values">Введите значения</string>
+    <string name="save_button">Сохранить</string>
+    <string name="result_format">Email: %1$s\nИмя: %2$s\nВозраст: %3$s</string>
+</resources>
